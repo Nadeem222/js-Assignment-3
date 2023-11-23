@@ -157,3 +157,4 @@ document.write(`<select name="" id="">
 <option value="option6">${manufacture[5]}</option>
 
 </select>`)
+
